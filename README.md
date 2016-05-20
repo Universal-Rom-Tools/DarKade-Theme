@@ -55,6 +55,7 @@ This is my DarKade Theme for recalbox
 | Virtual Boy | virtualboy | 4.0.0 |
 | Wonderswan B&W | wonderswan | 4.0.0 |
 | Wonderswan Color | wonderswancolor | 4.0.0 |
+| Zelda Fan Games (SNES) | zelda | 4.0.0 |
 | ZX Spectrum | zxspectrum | 4.0.0 |
 | ZX81 | z81 | 4.0.0 |
 
