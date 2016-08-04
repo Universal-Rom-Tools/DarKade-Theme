@@ -1,5 +1,9 @@
 # DarKade-Theme
-This is my DarKade Theme for recalbox
+This is my Modified DarKade Theme for recalbox
+Fork from The Darkade Theme by Nachtgarm
+
+The main modification is to delete the platform logo in detailed view and full screen the md_image
+
 
 **Supported systems:**
 
