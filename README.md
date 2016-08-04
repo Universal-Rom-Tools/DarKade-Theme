@@ -4,6 +4,8 @@ Fork from The Darkade Theme by Nachtgarm
 
 The main modification is to delete the platform logo in detailed view and full screen the md_image
 
+The aim of this modification is to use [Universal XML Scraper](https://github.com/Universal-Rom-Tools/Universal-XML-Scraper) to generate The background picture with The Mix Template named __Background (Modified DarKade-Theme by Nachtgarm)__
+
 
 **Supported systems:**
 
