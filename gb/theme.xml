@@ -16,15 +16,13 @@
       <iconColor>ffffff88</iconColor>
     </helpsystem>
   </view>
-  <view name="basic, detailed">
+  <view name="basic">
     <image name="logo">
       <path>./art/gameboy.svg</path>
       <pos>0.025 0.079</pos>
       <maxSize>0.55 0.1</maxSize>
       <origin>0 0.5</origin>
     </image>
-  </view>
-  <view name="basic">
     <textlist name="gamelist">
       <pos>0.025 0.22</pos>
       <size>0.950 0.68</size>
@@ -34,8 +32,8 @@
   </view>
   <view name="detailed">
     <image name="md_image">
-      <pos>0.025 0.22</pos>
-      <maxSize>0.245 0.301</maxSize>
+      <pos>0 0</pos>
+      <maxSize>1 1</maxSize>
       <origin>0 0</origin>
     </image>
     <text name="md_lbl_rating">
