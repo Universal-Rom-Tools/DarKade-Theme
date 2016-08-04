@@ -64,12 +64,12 @@ The main modification is to delete the platform logo in detailed view and full s
 | ZX81 | z81 | 4.0.0 |
 
 **Startup Screen**
-![Startup](https://raw.githubusercontent.com/Nachtgarm/DarKade-Theme/master/Startup.png)
+![Startup](https://raw.githubusercontent.com/Universal-Rom-Tools/DarKade-Theme/master/Startup.png)
 
 **Gamelist view with scraped info**
-![Detail](https://raw.githubusercontent.com/Nachtgarm/DarKade-Theme/master/Detail.png)
+![Detail](https://raw.githubusercontent.com/Universal-Rom-Tools/DarKade-Theme/master/Detail.png)
 
 **Gamelist view without scraped info**
-![NonScraped](https://raw.githubusercontent.com/Nachtgarm/DarKade-Theme/master/nonscraped.png)
+![NonScraped](https://raw.githubusercontent.com/Universal-Rom-Tools/DarKade-Theme/master/nonscraped.png)
 
 *Read the LICENSE for details*
