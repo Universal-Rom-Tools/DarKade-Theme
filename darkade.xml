@@ -73,5 +73,9 @@ license:		creative commons CC-BY-NC-SA
     </textlist>
   </view>
   <view name="basic"></view>
-  <view name="detailed"></view>
+  <view name="detailed">
+    <text name="logoText">
+      <pos>-50 -50</pos>
+    </text>
+  </view>
 </theme>
